@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.50.0" timestamp="2023-06-07T23:23:07.085">
+<file name="src/main/java/coding_Standar_FariasMera/VacationPackageCalculator.java">
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The class 'VacationPackageCalculator' has a Modified Cyclomatic Complexity of 13 (Highest = 12).
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The class 'VacationPackageCalculator' has a Modified Cyclomatic Complexity of 13 (Highest = 12).
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The class 'VacationPackageCalculator' has a Standard Cyclomatic Complexity of 13 (Highest = 12).
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The class 'VacationPackageCalculator' has a Standard Cyclomatic Complexity of 13 (Highest = 12).
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="5" endline="79" begincolumn="0" endcolumn="0" rule="UseUtilityClass" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#useutilityclass" priority="3">
+UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="CognitiveComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cognitivecomplexity" priority="3">
+CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 18, current threshold is 15
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="CognitiveComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cognitivecomplexity" priority="3">
+CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 18, current threshold is 15
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Public method and constructor comments are required
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 14.
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 14.
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="ModifiedCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#modifiedcyclomaticcomplexity" priority="3">
+ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#npathcomplexity" priority="3">
+NPathComplexity: The method 'main(String)' has an NPath complexity of 864, current threshold is 200
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#npathcomplexity" priority="3">
+NPathComplexity: The method 'main(String)' has an NPath complexity of 864, current threshold is 200
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="6" endline="78" begincolumn="0" endcolumn="0" rule="StdCyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#stdcyclomaticcomplexity" priority="3">
+StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 12.
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="13" endline="13" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="13" endline="13" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="16" endline="16" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="20" endline="46" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'totalCost' (lines '20'-'46').
+</violation>
+<violation beginline="20" endline="46" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'totalCost' (lines '20'-'46').
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="CommentSize" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentsize" priority="3">
+CommentSize: Comment is too large: Line too long
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="CommentSize" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentsize" priority="3">
+CommentSize: Comment is too large: Line too long
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="32" endline="32" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="32" endline="32" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="CommentSize" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentsize" priority="3">
+CommentSize: Comment is too large: Line too long
+</violation>
+<violation beginline="36" endline="36" begincolumn="0" endcolumn="0" rule="CommentSize" ruleset="Documentation" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentsize" priority="3">
+CommentSize: Comment is too large: Line too long
+</violation>
+<violation beginline="37" endline="37" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="37" endline="37" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="44" endline="44" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="44" endline="44" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="45" endline="45" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="45" endline="45" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="49" endline="49" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="52" endline="52" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="52" endline="52" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="55" endline="55" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="55" endline="55" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.print is used
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="59" endline="59" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="67" endline="67" begincolumn="0" endcolumn="0" rule="PositionLiteralsFirstInCaseInsensitiveComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#positionliteralsfirstincaseinsensitivecomparisons" priority="3">
+PositionLiteralsFirstInCaseInsensitiveComparisons: Position literals first in String comparisons for EqualsIgnoreCase
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="74" endline="74" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="76" endline="76" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="76" endline="76" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="VacationPackageCalculator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+</file>
+<file name="src/main/java/coding_Standar_FariasMera/Vacation_Cost_Estimator.java">
+<violation beginline="5" endline="102" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="102" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Class comments are required
+</violation>
+<violation beginline="5" endline="102" begincolumn="0" endcolumn="0" rule="DataClass" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#dataclass" priority="3">
+DataClass: The class 'Vacation_Cost_Estimator' is suspected to be a Data Class (WOC=22.222%, NOPA=1, NOAM=6, WMC=18)
+</violation>
+<violation beginline="5" endline="102" begincolumn="0" endcolumn="0" rule="DataClass" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#dataclass" priority="3">
+DataClass: The class 'Vacation_Cost_Estimator' is suspected to be a Data Class (WOC=22.222%, NOPA=1, NOAM=6, WMC=18)
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="10" endline="10" begincolumn="0" endcolumn="0" rule="CommentRequired" ruleset="Documentation" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+CommentRequired: Field comments are required
+</violation>
+<violation beginline="49" endline="75" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'calculate(Vacation_Cost_Estimator)' has a cyclomatic complexity of 10.
+</violation>
+<violation beginline="49" endline="75" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_apex_design.html#cyclomaticcomplexity" priority="3">
+CyclomaticComplexity: The method 'calculate(Vacation_Cost_Estimator)' has a cyclomatic complexity of 10.
+</violation>
+<violation beginline="51" endline="75" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'base' (lines '51'-'75').
+</violation>
+<violation beginline="51" endline="75" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#dataflowanomalyanalysis" priority="5">
+DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'base' (lines '51'-'75').
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="53" endline="53" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="LawOfDemeter" ruleset="Design" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_design.html#lawofdemeter" priority="3">
+LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="56" endline="56" begincolumn="0" endcolumn="0" rule="LiteralsFirstInComparisons" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#literalsfirstincomparisons" priority="3">
+LiteralsFirstInComparisons: Position literals first in String comparisons
+</violation>
+<violation beginline="62" endline="62" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="62" endline="62" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="65" endline="65" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="65" endline="65" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="71" endline="71" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="71" endline="71" begincolumn="0" endcolumn="0" rule="AvoidLiteralsInIfCondition" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#avoidliteralsinifcondition" priority="3">
+AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+</violation>
+<violation beginline="72" endline="72" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="72" endline="72" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="85" endline="85" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="85" endline="85" begincolumn="0" endcolumn="0" rule="CloseResource" ruleset="Error Prone" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_errorprone.html#closeresource" priority="3">
+CloseResource: Ensure that resources like this InputStream object are closed after use
+</violation>
+<violation beginline="87" endline="87" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="87" endline="87" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="90" endline="90" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="90" endline="90" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="93" endline="93" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="93" endline="93" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="98" endline="98" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+<violation beginline="98" endline="98" begincolumn="0" endcolumn="0" rule="SystemPrintln" ruleset="Best Practices" package="coding_Standar_FariasMera" class="Vacation_Cost_Estimator" externalInfoUrl="https://pmd.github.io/pmd-6.50.0/pmd_rules_java_bestpractices.html#systemprintln" priority="2">
+SystemPrintln: System.out.println is used
+</violation>
+</file>
+</pmd>
