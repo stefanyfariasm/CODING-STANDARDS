@@ -4,29 +4,41 @@
   <artifactId>coding_Standar_FariasMera</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  
-  <build>
- <plugins>
- <plugin>
- <groupId>org.apache.maven.plugins</groupId>
- <artifactId>maven-site-plugin</artifactId>
- <version>3.7.1</version>
-</plugin>
- <plugin>
- <groupId>org.apache.maven.plugins</groupId>
- <artifactId>maven-project-info-reports-plugin</artifactId>
- <version>3.0.0</version>
- </plugin>
- </plugins>
-</build>
-<reporting>
- <plugins>
- <plugin>
- <artifactId>maven-checkstyle-plugin</artifactId>
-<configuration>
- <configLocation>farias_codingStandae.xml</configLocation>
-</configuration>
-</plugin>
- </plugins>
-</reporting>
+
+	<build>
+	 <pluginManagement>
+	 <plugins>
+	 <plugin>
+	 <groupId>org.apache.maven.plugins</groupId>
+	<artifactId>maven-site-plugin</artifactId>
+	<version>3.7.1</version>
+	 </plugin>
+	 <plugin>
+	 <groupId>org.apache.maven.plugins</groupId>
+	 <artifactId>maven-project-info-reports-plugin</artifactId>
+	 <version>3.0.0</version>
+	 </plugin>
+	 <plugin>
+	 <groupId>org.apache.maven.plugins</groupId>
+	 <artifactId>maven-pmd-plugin</artifactId>
+	 <version>3.13.0</version>
+	 </plugin>
+	 </plugins>
+	 </pluginManagement>
+	</build>
+	
+	<reporting>
+	 <plugins>
+	<plugin>
+	 <groupId>org.apache.maven.plugins</groupId>
+	 <artifactId>maven-pmd-plugin</artifactId>
+	 <version>3.13.0</version>
+	 <configuration>
+	 <rulesets>
+	 <ruleset>fariaschalleng_ruleset.xml</ruleset>
+	</rulesets>
+	 </configuration>
+	</plugin>
+	 </plugins>
+	</reporting>
 </project>
